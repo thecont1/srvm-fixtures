@@ -1,0 +1,8 @@
+{
+  "name": "srvm-fixture-x5-node",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "node server.js"
+  }
+}
