@@ -1,0 +1,12 @@
+{
+  "name": "srvm-fixture-astro",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev"
+  },
+  "dependencies": {
+    "astro": "^4.16.0"
+  }
+}
